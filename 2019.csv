@@ -1,0 +1,99 @@
+Record_ID,Year,Paper,Row_Number,Source_Raw_Mark_or_Label,B1_Value,B2_Value,Other_Result,Source_File,Source_Region,Original_Row_Text,Visual_Confidence,Verification_Status,Notes
+1,2019,Paper 1B,1,0,0,0,,2019.JPG,Left Table,0 | 0,High,Verified,Paper 1B Conversion
+2,2019,Paper 1B,2,1,1,1,,2019.JPG,Left Table,1 | 1,High,Verified,Paper 1B Conversion
+3,2019,Paper 1B,3,2,2,1,,2019.JPG,Left Table,2 | 1,High,Verified,Paper 1B Conversion
+4,2019,Paper 1B,4,3,3,2,,2019.JPG,Left Table,3 | 2,High,Verified,Paper 1B Conversion
+5,2019,Paper 1B,5,4,4,2,,2019.JPG,Left Table,4 | 2,High,Verified,Paper 1B Conversion
+6,2019,Paper 1B,6,5,5,3,,2019.JPG,Left Table,5 | 3,High,Verified,Paper 1B Conversion
+7,2019,Paper 1B,7,6,6,3,,2019.JPG,Left Table,6 | 3,High,Verified,Paper 1B Conversion
+8,2019,Paper 1B,8,7,7,4,,2019.JPG,Left Table,7 | 4,High,Verified,Paper 1B Conversion
+9,2019,Paper 1B,9,8,8,4,,2019.JPG,Left Table,8 | 4,High,Verified,Paper 1B Conversion
+10,2019,Paper 1B,10,9,9,4,,2019.JPG,Left Table,9 | 4,High,Verified,Paper 1B Conversion
+11,2019,Paper 1B,11,10,10,5,,2019.JPG,Left Table,10 | 5,High,Verified,Paper 1B Conversion
+12,2019,Paper 1B,12,11,11,5,,2019.JPG,Left Table,11 | 5,High,Verified,Paper 1B Conversion
+13,2019,Paper 1B,13,12,12,5,,2019.JPG,Left Table,12 | 5,High,Verified,Paper 1B Conversion
+14,2019,Paper 1B,14,13,13,6,,2019.JPG,Left Table,13 | 6,High,Verified,Paper 1B Conversion
+15,2019,Paper 1B,15,14,14,6,,2019.JPG,Left Table,14 | 6,High,Verified,Paper 1B Conversion
+16,2019,Paper 1B,16,15,15,6,,2019.JPG,Left Table,15 | 6,High,Verified,Paper 1B Conversion
+17,2019,Paper 1B,17,16,16,7,,2019.JPG,Left Table,16 | 7,High,Verified,Paper 1B Conversion
+18,2019,Paper 1B,18,17,17,7,,2019.JPG,Left Table,17 | 7,High,Verified,Paper 1B Conversion
+19,2019,Paper 1B,19,18,18,8,,2019.JPG,Left Table,18 | 8,High,Verified,Paper 1B Conversion
+20,2019,Paper 1B,20,19,19,8,,2019.JPG,Left Table,19 | 8,High,Verified,Paper 1B Conversion
+21,2019,Paper 1B,21,20,20,9,,2019.JPG,Left Table,20 | 9,High,Verified,Paper 1B Conversion
+22,2019,Paper 1B,22,21,21,9,,2019.JPG,Left Table,21 | 9,High,Verified,Paper 1B Conversion
+23,2019,Paper 1B,23,22,22,10,,2019.JPG,Left Table,22 | 10,High,Verified,Paper 1B Conversion
+24,2019,Paper 1B,24,23,23,10,,2019.JPG,Left Table,23 | 10,High,Verified,Paper 1B Conversion
+25,2019,Paper 1B,25,24,24,11,,2019.JPG,Left Table,24 | 11,High,Verified,Paper 1B Conversion
+26,2019,Paper 1B,26,25,25,11,,2019.JPG,Left Table,25 | 11,High,Verified,Paper 1B Conversion
+27,2019,Paper 1B,27,26,26,12,,2019.JPG,Left Table,26 | 12,High,Verified,Paper 1B Conversion
+28,2019,Paper 1B,28,27,27,13,,2019.JPG,Left Table,27 | 13,High,Verified,Paper 1B Conversion
+29,2019,Paper 1B,29,28,28,14,,2019.JPG,Left Table,28 | 14,High,Verified,Paper 1B Conversion
+30,2019,Paper 1B,30,29,29,15,,2019.JPG,Left Table,29 | 15,High,Verified,Paper 1B Conversion
+31,2019,Paper 1B,31,30,30,16,,2019.JPG,Left Table,30 | 16,High,Verified,Paper 1B Conversion
+32,2019,Paper 1B,32,31,31,17,,2019.JPG,Left Table,31 | 17,High,Verified,Paper 1B Conversion
+33,2019,Paper 1B,33,32,32,18,,2019.JPG,Left Table,32 | 18,High,Verified,Paper 1B Conversion
+34,2019,Paper 1B,34,33,33,20,,2019.JPG,Left Table,33 | 20,High,Verified,Paper 1B Conversion
+35,2019,Paper 1B,35,34,34,21,,2019.JPG,Left Table,34 | 21,High,Verified,Paper 1B Conversion
+36,2019,Paper 1B,36,35,35,23,,2019.JPG,Left Table,35 | 23,High,Verified,Paper 1B Conversion
+37,2019,Paper 1B,37,36,36,25,,2019.JPG,Left Table,36 | 25,High,Verified,Paper 1B Conversion
+38,2019,Paper 1B,38,37,37,28,,2019.JPG,Left Table,37 | 28,High,Verified,Paper 1B Conversion
+39,2019,Paper 1B,39,38,38,31,,2019.JPG,Left Table,38 | 31,High,Verified,Paper 1B Conversion
+40,2019,Paper 1B,40,39,39,33,,2019.JPG,Left Table,39 | 33,High,Verified,Paper 1B Conversion
+41,2019,Paper 1B,41,40,40,35,,2019.JPG,Left Table,40 | 35,High,Verified,Paper 1B Conversion
+42,2019,Paper 1B,42,41,41,37,,2019.JPG,Left Table,41 | 37,High,Verified,Paper 1B Conversion
+43,2019,Paper 1B,43,42,42,39,,2019.JPG,Left Table,42 | 39,High,Verified,Paper 1B Conversion
+44,2019,Paper 3B,1,0,0,0,,2019.JPG,Middle Table,0 | 0,High,Verified,Paper 3B Conversion (Middle Table)
+45,2019,Paper 3B,2,1,1,1,,2019.JPG,Middle Table,1 | 1,High,Verified,Paper 3B Conversion (Middle Table)
+46,2019,Paper 3B,3,2,2,1,,2019.JPG,Middle Table,2 | 1,High,Verified,Paper 3B Conversion (Middle Table)
+47,2019,Paper 3B,4,3,3,1,,2019.JPG,Middle Table,3 | 1,High,Verified,Paper 3B Conversion (Middle Table)
+48,2019,Paper 3B,5,4,4,1,,2019.JPG,Middle Table,4 | 1,High,Verified,Paper 3B Conversion (Middle Table)
+49,2019,Paper 3B,6,5,5,1,,2019.JPG,Middle Table,5 | 1,High,Verified,Paper 3B Conversion (Middle Table)
+50,2019,Paper 3B,7,6,6,1,,2019.JPG,Middle Table,6 | 1,High,Verified,Paper 3B Conversion (Middle Table)
+51,2019,Paper 3B,8,7,7,1,,2019.JPG,Middle Table,7 | 1,High,Verified,Paper 3B Conversion (Middle Table)
+52,2019,Paper 3B,9,8,8,1,,2019.JPG,Middle Table,8 | 1,High,Verified,Paper 3B Conversion (Middle Table)
+53,2019,Paper 3B,10,9,9,2,,2019.JPG,Middle Table,9 | 2,High,Verified,Paper 3B Conversion (Middle Table)
+54,2019,Paper 3B,11,10,10,2,,2019.JPG,Middle Table,10 | 2,High,Verified,Paper 3B Conversion (Middle Table)
+55,2019,Paper 3B,12,11,11,2,,2019.JPG,Middle Table,11 | 2,High,Verified,Paper 3B Conversion (Middle Table)
+56,2019,Paper 3B,13,12,12,2,,2019.JPG,Middle Table,12 | 2,High,Verified,Paper 3B Conversion (Middle Table)
+57,2019,Paper 3B,14,13,13,2,,2019.JPG,Middle Table,13 | 2,High,Verified,Paper 3B Conversion (Middle Table)
+58,2019,Paper 3B,15,14,14,2,,2019.JPG,Middle Table,14 | 2,High,Verified,Paper 3B Conversion (Middle Table)
+59,2019,Paper 3B,16,15,15,2,,2019.JPG,Middle Table,15 | 2,High,Verified,Paper 3B Conversion (Middle Table)
+60,2019,Paper 3B,17,16,16,2,,2019.JPG,Middle Table,16 | 2,High,Verified,Paper 3B Conversion (Middle Table)
+61,2019,Paper 3B,18,17,17,3,,2019.JPG,Middle Table,17 | 3,High,Verified,Paper 3B Conversion (Middle Table)
+62,2019,Paper 3B,19,18,18,3,,2019.JPG,Middle Table,18 | 3,High,Verified,Paper 3B Conversion (Middle Table)
+63,2019,Paper 3B,20,19,19,3,,2019.JPG,Middle Table,19 | 3,High,Verified,Paper 3B Conversion (Middle Table)
+64,2019,Paper 3B,21,20,20,3,,2019.JPG,Middle Table,20 | 3,High,Verified,Paper 3B Conversion (Middle Table)
+65,2019,Paper 3B,22,21,21,4,,2019.JPG,Middle Table,21 | 4,High,Verified,Paper 3B Conversion (Middle Table)
+66,2019,Paper 3B,23,22,22,4,,2019.JPG,Middle Table,22 | 4,High,Verified,Paper 3B Conversion (Middle Table)
+67,2019,Paper 3B,24,23,23,4,,2019.JPG,Middle Table,23 | 4,High,Verified,Paper 3B Conversion (Middle Table)
+68,2019,Paper 3B,25,24,24,4,,2019.JPG,Middle Table,24 | 4,High,Verified,Paper 3B Conversion (Middle Table)
+69,2019,Paper 3B,26,25,25,5,,2019.JPG,Middle Table,25 | 5,High,Verified,Paper 3B Conversion (Middle Table)
+70,2019,Paper 3B,27,26,26,5,,2019.JPG,Middle Table,26 | 5,High,Verified,Paper 3B Conversion (Middle Table)
+71,2019,Paper 3B,28,27,27,6,,2019.JPG,Middle Table,27 | 6,High,Verified,Paper 3B Conversion (Middle Table)
+72,2019,Paper 3B,29,28,28,6,,2019.JPG,Middle Table,28 | 6,High,Verified,Paper 3B Conversion (Middle Table)
+73,2019,Paper 3B,30,29,29,7,,2019.JPG,Middle Table,29 | 7,High,Verified,Paper 3B Conversion (Middle Table)
+74,2019,Paper 3B,31,30,30,7,,2019.JPG,Middle Table,30 | 7,High,Verified,Paper 3B Conversion (Middle Table)
+75,2019,Paper 3B,32,31,31,8,,2019.JPG,Middle Table,31 | 8,High,Verified,Paper 3B Conversion (Middle Table)
+76,2019,Paper 3B,33,32,32,9,,2019.JPG,Middle Table,32 | 9,High,Verified,Paper 3B Conversion (Middle Table)
+77,2019,Paper 3B,34,33,33,10,,2019.JPG,Middle Table,33 | 10,High,Verified,Paper 3B Conversion (Middle Table)
+78,2019,Paper 3B,35,34,34,11,,2019.JPG,Middle Table,34 | 11,High,Verified,Paper 3B Conversion (Middle Table)
+79,2019,Paper 3B,36,35,35,12,,2019.JPG,Middle Table,35 | 12,High,Verified,Paper 3B Conversion (Middle Table)
+80,2019,Paper 3B,37,36,36,13,,2019.JPG,Middle Table,36 | 13,High,Verified,Paper 3B Conversion (Middle Table)
+81,2019,Paper 3B,38,37,37,14,,2019.JPG,Middle Table,37 | 14,High,Verified,Paper 3B Conversion (Middle Table)
+82,2019,Paper 3B,39,38,38,15,,2019.JPG,Middle Table,38 | 15,High,Verified,Paper 3B Conversion (Middle Table)
+83,2019,Paper 3B,40,39,39,16,,2019.JPG,Middle Table,39 | 16,High,Verified,Paper 3B Conversion (Middle Table)
+84,2019,Paper 3B,41,40,40,17,,2019.JPG,Middle Table,40 | 17,High,Verified,Paper 3B Conversion (Middle Table)
+85,2019,Paper 3B,42,41,41,18,,2019.JPG,Middle Table,41 | 18,High,Verified,Paper 3B Conversion (Middle Table)
+86,2019,Paper 3B,43,42,42,20,,2019.JPG,Middle Table,42 | 20,High,Verified,Paper 3B Conversion (Middle Table)
+87,2019,Paper 3B,44,43,43,21,,2019.JPG,Right Table,43 | 21,High,Verified,Paper 3B Conversion (Right Table)
+88,2019,Paper 3B,45,44,44,23,,2019.JPG,Right Table,44 | 23,High,Verified,Paper 3B Conversion (Right Table)
+89,2019,Paper 3B,46,45,45,25,,2019.JPG,Right Table,45 | 25,High,Verified,Paper 3B Conversion (Right Table)
+90,2019,Paper 3B,47,46,46,27,,2019.JPG,Right Table,46 | 27,High,Verified,Paper 3B Conversion (Right Table)
+91,2019,Paper 3B,48,47,47,29,,2019.JPG,Right Table,47 | 29,High,Verified,Paper 3B Conversion (Right Table)
+92,2019,Paper 3B,49,48,48,31,,2019.JPG,Right Table,48 | 31,High,Verified,Paper 3B Conversion (Right Table)
+93,2019,Paper 3B,50,49,49,33,,2019.JPG,Right Table,49 | 33,High,Verified,Paper 3B Conversion (Right Table)
+94,2019,Paper 3B,51,50,50,35,,2019.JPG,Right Table,50 | 35,High,Verified,Paper 3B Conversion (Right Table)
+95,2019,Paper 3B,52,51,51,37,,2019.JPG,Right Table,51 | 37,High,Verified,Paper 3B Conversion (Right Table)
+96,2019,Paper 3B,53,52,52,40,,2019.JPG,Right Table,52 | 40,High,Verified,Paper 3B Conversion (Right Table)
+97,2019,Paper 3B,54,53,53,44,,2019.JPG,Right Table,53 | 44,High,Verified,Paper 3B Conversion (Right Table)
+
